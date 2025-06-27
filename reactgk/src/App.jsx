@@ -14,7 +14,7 @@ function App() {
   // const message = ["hye hi","how are you","Are you There"]
   return (
     <div>
-      {/* <Timer /> */}
+      <Timer />
       {/* <EventsDemo /> */}
       {/* <Greetings /> */}
       {/* <UserProfile /> */}
@@ -22,7 +22,7 @@ function App() {
       {/* <FetchData /> */}
        {/* <Uncontrolled /> */}
        {/* <UseMemo /> */}
-       <Parent />
+       {/* <Parent /> */}
        {/* <ConditionalRendering letMecheck={true} /> */}
        {/* < Data /> */}
     </div>
